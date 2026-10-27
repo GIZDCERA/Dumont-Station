@@ -220,6 +220,10 @@
       weight: 1
     - id: VinylDiskWeAreNumberTwo
       weight: 1
+    # Dumont - keep each jukebox track as likely as a regular vinyl.
+    - !type:NestedSelector
+      tableId: JukeboxVinylDisks
+      weight: 55
 
 - type: entityTable
   id: RandomVinylSleeve
