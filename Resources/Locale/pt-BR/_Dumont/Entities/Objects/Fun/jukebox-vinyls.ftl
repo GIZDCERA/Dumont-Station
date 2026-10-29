@@ -1,7 +1,3 @@
-# SPDX-FileCopyrightText: 2026 GIZDCERA <321442778+GIZDCERA@users.noreply.github.com>
-#
-# SPDX-License-Identifier: AGPL-3.0-or-later
-
 ent-BaseVinylDiskJukebox = disco de vinil
     .desc = Um disco de vinil com uma música da jukebox da estação.
 
